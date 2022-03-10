@@ -20,7 +20,7 @@ As a part-time proxy engineer, I enjoy making websites to bypass school filters,
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regularly make edits on [Connected](https://degeneracy.vysl.repl.co);
 - 📫 How to reach me: inquiries@onlinemathhelp.xyz;
-- 📝 [Resume](https://example.com).
+- 📝 [My Resume](https://example.com)
 
 </br>
 
