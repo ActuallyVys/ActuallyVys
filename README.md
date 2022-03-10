@@ -29,8 +29,8 @@ As a part-time proxy engineer, I enjoy making websites to bypass school filters,
 
 ```text
 CSS          31 mins         ████████████████████████░   64.93 %
-JS           12 mins         █████▓░░░░░░░░░░░░░░░░░░    29.63 %
-HTML         15 secs         █▒░░░░░░░░░░░░░░░░░░░░░░    05.45 %
+HTML         12 mins         █████▓░░░░░░░░░░░░░░░░░░    29.63 %
+JS           15 secs         █▒░░░░░░░░░░░░░░░░░░░░░░    05.45 %
 ```
 
 <!--END_SECTION:waka-->
