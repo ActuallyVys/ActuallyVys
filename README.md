@@ -24,7 +24,7 @@ As a part-time proxy engineer, I enjoy making websites to bypass school filters,
 
 </br>
 
-📊 **This Week I Spent My Time On:**
+📊 **Overall time spent on:**
 <!--START_SECTION:waka-->
 
 ```text
