@@ -17,7 +17,7 @@ As a part-time proxy engineer, I enjoy making websites to bypass school filters,
 
 - 👨🏻‍💻 I’m currently working on: [Connected](https://degeneracy.vysl.repl.co)...
 - 🚀 I’m currently learning engineering on [leetcode](https://example.com)!
-- 📫 How to reach me: inquiries@onlinemathhelp.xyz;
+- 📫 Questions or inquiries? Contact me at: inquiries@onlinemathhelp.xyz
 - 📝 [My Resume](https://example.com)
 
 </br>
