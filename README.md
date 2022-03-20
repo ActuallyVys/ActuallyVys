@@ -23,13 +23,11 @@ As a part-time proxy engineer, I enjoy making websites to bypass school filters,
 
 </br>
 
-📊 **Overall time spent on:**
+📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
-CSS          31 mins         ████████████████████████░   64.93 %
-HTML         12 mins         █████▓░░░░░░░░░░░░░░░░░░    29.63 %
-JS           15 secs         █▒░░░░░░░░░░░░░░░░░░░░░░    05.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
