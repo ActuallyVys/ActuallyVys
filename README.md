@@ -16,7 +16,7 @@ As a part-time proxy engineer, I enjoy making websites to bypass school filters,
 
 **Information about me:**
 
-- 👨🏻‍💻 I’m currently working on: [Prysm](https://prysmdev.org/)...
+- 👨🏻‍💻 I’m currently working on: [Scatter](https://scatterdev.xyz/)...
 - 🚀 I’m currently learning engineering on [leetcode](https://example.com)!
 - 📫 Questions or inquiries? Contact me at: hello@vyslix.com
 - 📝 [My Resume](https://example.com)
